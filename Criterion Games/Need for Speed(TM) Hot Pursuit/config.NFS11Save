@@ -1,11 +1,11 @@
 [Display]
 ForceAniso=false
 HiResTextures=false
-MotionBlur=false
+MotionBlur=true
 DepthOfField=true
 FitToVertical=true
-Width=1360
-Height=768
+Width=1920
+Height=1080
 GammaRamp=0.950
 [Hardware]
 AdapterNumber=0
